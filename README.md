@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**pedropgaraujo/pedropgaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Pedro Araujo.
 
-Here are some ideas to get you started:
+💻 Java Backend Developer  
+🎓 Computer Science graduate (2022)  
+📚 Postgraduate in Software Architecture with Java (2023)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about backend development and building scalable, well-structured systems.  
+Currently focused on improving my skills in the **Java ecosystem** and developing practical projects to strengthen my portfolio.
+
+---
+
+## 🚀 Tech Stack
+
+- Java
+- Spring Boot
+- REST APIs
+- Object-Oriented Programming (OOP)
+- Software Architecture
+- Git & GitHub
+- SQL
+
+---
+
+## 📚 Currently Learning
+
+- Spring Boot
+- Microservices architecture
+- Docker
+- Cloud fundamentals
+
+---
+
+## 🎯 Career Goal
+
+I am looking for my **first opportunity as a Junior Java Developer**, where I can contribute to real-world projects, collaborate with experienced developers, and grow as a software engineer.
+
+---
+
+## 📂 Featured Projects
+
+Here are some projects I am currently working on:
+
+🔹 Java REST API  
+🔹 Task Manager with Spring Boot  
+🔹 Authentication system with JWT  
+
+(Projects will be added and improved continuously.)
+
+---
+
+## 📊 GitHub Stats
+
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedropgaraujo&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/pedroaraujo01
+- Email: pedroaraujo.cdc@email.com
