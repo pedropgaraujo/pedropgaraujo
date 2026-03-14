@@ -59,4 +59,4 @@ Here are some projects I am currently working on:
 ## 📫 Contact
 
 - LinkedIn: https://linkedin.com/in/pedroaraujo01
-- Email: pedroaraujo.cdc@email.com
+- Email: pedroaraujo.cdc@gmail.com
