@@ -58,5 +58,5 @@ Here are some projects I am currently working on:
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/pedroaraujo01
+- LinkedIn: https://linkedin.com/in/pedropgaraujo
 - Email: pedroaraujo.cdc@gmail.com
