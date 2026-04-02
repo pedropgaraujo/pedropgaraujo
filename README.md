@@ -48,11 +48,6 @@ Here are some projects I am currently working on:
 
 (Projects will be added and improved continuously.)
 
----
-
-## 📊 GitHub Stats
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedropgaraujo&show_icons=true&theme=tokyonight)
 
 ---
 
